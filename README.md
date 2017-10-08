@@ -1,9 +1,3 @@
 MethodsLab
 Repository made for exercises and testing purposes
-Making changes for testing with GitBash!
-
-Making changes for conflict tests!
-
-This line is inserted online for conflict testing.
-
-Conflict Resolved!!!
+Making some changes in order to test branch merging.
